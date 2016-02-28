@@ -22,6 +22,10 @@ Keeping the arrow keys and the function row is important, which throws out prett
 I also want to incorporate some layout cues from the HHKb, namely its backspace location.
 I initially thought that I wouldn't like that, but now I do.
 
+### layout
+
+![k84 latest](https://raw.githubusercontent.com/komidore64/k84/master/images/k84.latest.png)
+
 ## keycaps
 
 I'm heavily eyeing Signature Plastics' [SA Symbiosis keycap set](http://pimpmykeyboard.com/sa-symbiosis-keycap-set/). I'd need to contact them about a couple caps though as they don't have every cap listed that I want for the k84.
