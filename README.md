@@ -6,6 +6,10 @@
 
 Based heavily on [``metalliqaz``'s Epsilon keyboard](https://geekhack.org/index.php?topic=41390.0).
 
+I started out with a 60% keyboard like the Poker II seen below then began tweaking it to my liking using the [Keyboard Layout Editor](http://keyboard-layout-editor.com).
+
+![poker](https://raw.githubusercontent.com/komidore64/k84/master/images/poker.png)
+
 ## characteristics
 
 - 70% layout
