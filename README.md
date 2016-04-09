@@ -13,8 +13,9 @@ I started out with a 60% keyboard like the Poker II seen below then began tweaki
 ## characteristics
 
 - 70% layout
-- powered by a teensy2
+- powered by a teensy2 (with tmk?)
 - layered case/body
+- backlighting?
 
 I want to have as many keys as possible for gaming purposes while maintaining a compact size.
 The size of the Happy Hacking Keyboard Pro is nice for typing/programming, but having to chord keys during games isn't a trivial task.
@@ -24,8 +25,4 @@ I initially thought that I wouldn't like that, but now I do.
 
 ### layout
 
-![k84 latest](https://raw.githubusercontent.com/komidore64/k84/master/images/k84.latest.png)
-
-## keycaps
-
-I'm heavily eyeing Signature Plastics' [SA Symbiosis keycap set](http://pimpmykeyboard.com/sa-symbiosis-keycap-set/). I'd need to contact them about a couple caps though as they don't have every cap listed that I want for the k84.
+![k84 latest](https://raw.githubusercontent.com/komidore64/k84/master/images/k84.png)
